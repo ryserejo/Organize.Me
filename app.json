@@ -1,0 +1,12 @@
+{
+  "name": "organize_me",
+  "displayName": "organize_me",
+  "expo": {
+    "name": "organize_me",
+    "slug": "organize_me",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
